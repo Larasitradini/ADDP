@@ -1,1 +1,0 @@
-pip install pandas streamlit plotly scikit-learn
